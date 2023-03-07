@@ -1,0 +1,1 @@
+anaconda repo: https://repo.anaconda.com/pkgs/main/osx-64/current_repodata.json
